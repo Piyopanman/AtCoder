@@ -5,6 +5,8 @@ abc170
 abc177
 abc169
 abc165
+abc180
 
 -----
 (文字) - '0'  :文字から数値への変換
+桁数指定　  cout << fixed << setprecision(9) << x << endl;

@@ -9,6 +9,8 @@
 //構造体、メンバ関数 469
 //ビット計算 534
 //小文字大文字の変換などchar関係 642
+//string 文字数 は　(変数名).length()
+//桁数指定　  cout << fixed << setprecision(9) << x << endl;
 
 
 
