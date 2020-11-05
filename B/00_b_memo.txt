@@ -1,6 +1,6 @@
 abc179 ok
-abc176
-abc175
+abc176 もーいっかい！
+abc175 ok
 abc170
 abc177
 abc169
@@ -9,5 +9,5 @@ abc180
 abc149
 
 -----
-(文字) - '0'  :文字から数値への変換
+(文字) - '0'  (s += a[i] - '0';):文字から数値への変換 (176)
 桁数指定　  cout << fixed << setprecision(9) << x << endl;
