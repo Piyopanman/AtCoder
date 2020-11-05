@@ -1,7 +1,7 @@
 abc179 ok
 abc176 もーいっかい！
 abc175 ok
-abc170
+abc170　もーいっかい！
 abc177
 abc169
 abc165
