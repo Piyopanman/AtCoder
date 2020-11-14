@@ -9,8 +9,10 @@ abc180
 abc149
 abc181
 abc146 もう一回！
+abc145
 
 -----
 (文字) - '0'  (s += a[i] - '0';):文字から数値への変換 　(176)
-int charの変換（A 65） (146)
 桁数指定　  cout << fixed << setprecision(9) << x << endl;
+int charの変換（A 65） (146)
+(変数).substr(初め, 終わり) で文字列の切り出し（145）
