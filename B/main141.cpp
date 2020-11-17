@@ -10,15 +10,15 @@ int main() {
   bool kisu = true;
   bool gusu = true;
 
-  for(int i=0 ; i<=s.size() ; i=i+2){ //奇数
-    if(s[i] != 'R' && s[i] != 'U' && s[i] != 'D'){
+  for(int i=0 ; i<s.size() ; i=i+2){ //奇数
+    if(!(s[i] == 'R' || s[i] == 'U' || s[i] == 'D')){
       kisu = false;
       break;
     }
   }
 
-  for(int i=1 ; i<=s.size() ; i=i+2){
-    if(s[i] != 'L' && s[i] != 'U' && s[i] != 'D'){
+  for(int i=1 ; i<s.size() ; i=i+2){
+    if(!(s[i] == 'L' || s[i] == 'U' || s[i] == 'D')){
       gusu = false;
       break;
     }
